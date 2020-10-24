@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Live Demo:
+### https://netflix-f01b6.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
